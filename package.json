@@ -1,0 +1,25 @@
+{
+  "name": "argonaut",
+  "version": "0.1.0",
+  "description": "A CLI JSON Editor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tedslittlerobot/argonaut.git"
+  },
+  "keywords": [
+    "json",
+    "cli"
+  ],
+  "author": "Stef Horner (stef@tedslittlerobot.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tedslittlerobot/argonaut/issues"
+  },
+  "dependencies": {
+    "optimist": "~0.6.0"
+  }
+}
