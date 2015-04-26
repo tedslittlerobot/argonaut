@@ -5,7 +5,7 @@ I got bored of having to make predictable changes to package.json, composer.json
 
 NB - this is still in development, so the API is subject to change
 
-# Instalation
+# Installation
 
     npm install -g argonaut
 
